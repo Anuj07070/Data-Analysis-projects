@@ -2,7 +2,9 @@
  In this repository,  i am going to post the small projects with detail analysis, that can help to understand the  numpy,pandas and matplotlib effectivity
  Download dataset from the this link
  https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases
- #To perform data analysis, I have mentioned 15 questions that we are going to solve one by one. Questions are as follows.
+ 
+ 
+ To perform data analysis, I have mentioned 15 questions that we are going to solve one by one. Questions are as follows.
 1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Check Datatype of Each Column
